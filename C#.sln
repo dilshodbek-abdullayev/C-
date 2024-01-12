@@ -5,7 +5,6 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_Month", "1_Month", "{6055A1BF-77CA-4596-A5E5-3BA424BBFA87}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson10_Polymorphism", "Lesson10_Polymorphism", "{8ACE8D5A-FA12-408A-8871-A5C5BDECD7B7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Calculator", "Calculator", "{5FDC1439-48A2-4C87-9BE7-7DAA0E1EF509}"
 EndProject
@@ -13,7 +12,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator.servise", "Calcu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clinic", "Clinic", "{BE84D5A3-5D07-4B35-B505-58B1C61F18CD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clinic", "Clinic\Clinic.csproj", "{04A84CFA-2BAF-4A7A-95CE-5BB2F5D7F9F7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson11_Collection", "Lesson11_Collection", "{9BD49203-CF34-4FA2-8F4D-632A126A3DB4}"
 EndProject
